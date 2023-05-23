@@ -1,4 +1,4 @@
-# 2D Array Scan Print With Single Loop C
+# 2D Array iteration (Scan-Print), with a single loop in C
 
 This repository contains a C program that allows users to input values into a 2D array and display the array using a single "for" loop. The program prompts the user to enter values for each element of the array and then displays the entered array.
 
